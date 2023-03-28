@@ -1,26 +1,26 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="江西移动IPV6",CCTV2 8M1080
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225500/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2  
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K  
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="4K/8K-IPV6",CCTV1-4K
-http://[2409:8087:2004:20:2800:0:df6e:ec21]/wh7f454c46tw3997260203_1403144048/ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8?icpid=4&RTS=1678666195&from=40&popid=40&hms_devid=2294&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="4K/8K-IPV6",CCTV3-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1  
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3  
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="4K/8K-IPV6",CCTV5-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="4K/8K-IPV6",CCTV6-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6  
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="4K/8K-IPV6",CCTV8-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" group-title="广东移动IPV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10  
@@ -57,71 +57,3 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225699/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" group-title="广东移动IPV6" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="数字",纯享4K
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-
-
-#EXTINF:-1 group-title="景区",河南二七塔
-http://gctxyc.liveplay.myqcloud.com/gc/xysrf_1_md.m3u8
-#EXTINF:-1 group-title="景区",郑东新区千玺广场
-http://gctxyc.liveplay.myqcloud.com/gc/zdxq01_1_md.m3u8
-#EXTINF:-1 group-title="景区",武汉两江四岸
-https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",广州塔和海心桥
-https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",深圳世界之窗
-http://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
-#EXTINF:-1 group-title="景区",凤凰古城南华山
-http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
-#EXTINF:-1 group-title="景区",凤凰古城东关门
-http://gcksc.v.kcdnvip.com/gc/fhgcdgm_1/index.m3u8
-#EXTINF:-1 group-title="景区",八达岭长城南七楼
-http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
-#EXTINF:-1 group-title="景区",趵突泉
-http://gcksc.v.kcdnvip.com/gc/btq01_1/index.m3u8
-#EXTINF:-1 group-title="景区",峨眉山普贤菩萨
-http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
-#EXTINF:-1 group-title="景区",湖南岳阳楼
-http://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-#EXTINF:-1 group-title="景区",江西武功山云顶
-https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",南昌滕王阁
-https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",南京玄武湖公园
-http://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8
-#EXTINF:-1 group-title="景区",千岛湖
-http://gctxyc.liveplay.myqcloud.com/gc/caqdh_1_md.m3u8
-#EXTINF:-1 group-title="景区",厦门鼓浪屿
-http://gctxyc.liveplay.myqcloud.com/gc/gly01_1_md.m3u8
-#EXTINF:-1 group-title="景区",泰山大观峰
-https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",泰山拱北石
-https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",泰山黄岘岭
-https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",泰山天街
-https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",泰山玉皇顶
-https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",天津滨海新区
-http://gccncc.v.wscdns.com/gc/ljgcwglytylxs_1/index.m3u8
-#EXTINF:-1 group-title="景区",天津滨海新区2
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",张家界阿凡达悬浮山
-https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",张家界玻璃桥
-https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",张家界将军列队
-https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",张家界迷魂台
-https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",张家界水绕4门
-https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区",舟山东极岛
-http://gctxyc.liveplay.myqcloud.com/gc/djd01_1_md.m3u8
-http://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
-#EXTINF:-1 group-title="景区",云台山-百家岩
-http://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
-#EXTINF:-1 group-title="景区",云台山-红石峡
-http://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
-#EXTINF:-1 group-title="景区",云台山-小寨沟
-http://gctxyc.liveplay.myqcloud.com/gc/ytsxzg_1_md.m3u8
-
