@@ -1,101 +1,101 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="CCTV2" group-title="IPV6•央视",CCTV2「IPV6」
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV2-财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV13" group-title="IPV6•央视",CCTV13「IPV6」
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视",CCTV13-新闻
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K
 https://cntv.sbs/live?auth=230612&id=cctv4k
-#EXTINF:-1 tvg-name="第一财经" group-title="IPV6•数字",第一财经「IPV6」
+#EXTINF:-1 tvg-name="第一财经" group-title="数字",第一财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
-#EXTINF:-1 tvg-name="东方财经" group-title="IPV6•数字",SiTV东方财经「IPV6」
+#EXTINF:-1 tvg-name="东方财经" group-title="数字",SiTV东方财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",韩联社
 https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 
 
-#EXTINF:-1 tvg-name="CCTV1" group-title="IPV6•央视",CCTV1「IPV6」
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV1-综合
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV3" group-title="IPV6•央视",CCTV3「IPV6」
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV3-综艺
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV4" group-title="IPV6•央视",CCTV4「IPV6」
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV4-国际
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001221/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV5" group-title="IPV6•央视",CCTV5「IPV6」
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV5-体育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001187/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV5+" group-title="IPV6•央视",CCTV5+「IPV6」
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV5+体育赛事
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CCTV6" group-title="IPV6•央视",CCTV6「IPV6」
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV6-电影
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001188/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV7" group-title="IPV6•央视",CCTV7「IPV6」
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV7-军事农业
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001236/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV8" group-title="IPV6•央视",CCTV8「IPV6」
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视",CCTV8-电视剧
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001189/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV9" group-title="IPV6•央视",CCTV9「IPV6」
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视",CCTV9-纪录片
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001237/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV10" group-title="IPV6•央视",CCTV10「IPV6」
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视",CCTV10-科教
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV12" group-title="IPV6•央视",CCTV12「IPV6」
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视",CCTV12-社会与法
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV15" group-title="IPV6•央视",CCTV15「IPV6」
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视",CCTV15-音乐
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV17" group-title="IPV6•央视",CCTV17「IPV6」
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视",CCTV17-农业农村
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
 
-
-#EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6•数字",凤凰中文「IPV6」•支持回看
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6•数字",凤凰资讯「IPV6」•支持回看
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPV6•卫视",北京卫视「IPV6」
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPV6•卫视",深圳卫视「IPV6」
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视",深圳卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001030/index.m3u8?
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPV6•卫视",东方卫视「IPV6」
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001013/index.m3u8?
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPV6•卫视",广东卫视「IPV6」
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视",广东卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPV6•卫视",湖南卫视「IPV6」
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPV6•卫视",浙江卫视「IPV6」
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001023/index.m3u8?
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPV6•卫视",江苏卫视「IPV6」
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
-#EXTINF:-1 tvg-name="广西卫视" group-title="IPV6•卫视",广西卫视「IPV6」
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视",广西卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8?
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPV6•卫视",四川卫视「IPV6」
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视",四川卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001130/index.m3u8?
-#EXTINF:-1 tvg-name="天津卫视" group-title="IPV6•卫视",天津卫视「IPV6」
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视",天津卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001036/index.m3u8?
-#EXTINF:-1 tvg-name="安徽卫视" group-title="IPV6•卫视",安徽卫视「IPV6」
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视",安徽卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001037/index.m3u8?
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPV6•卫视",山东卫视「IPV6」
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视",山东卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001028/index.m3u8?
-#EXTINF:-1 tvg-name="江西卫视" group-title="IPV6•卫视",江西卫视「IPV6」
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视",江西卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001034/index.m3u8?
-#EXTINF:-1 tvg-name="河北卫视" group-title="IPV6•卫视",河北卫视「IPV6」
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001229/index.m3u8?
-#EXTINF:-1 tvg-name="河南卫视" group-title="IPV6•卫视",河南卫视「IPV6」
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视",河南卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001222/index.m3u8?
-#EXTINF:-1 tvg-name="海南卫视" group-title="IPV6•卫视",海南卫视「IPV6」
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视",海南卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001183/index.m3u8?
-#EXTINF:-1 tvg-name="湖北卫视" group-title="IPV6•卫视",湖北卫视「IPV6」
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001027/index.m3u8?
-#EXTINF:-1 tvg-name="贵州卫视" group-title="IPV6•卫视",贵州卫视「IPV6」
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视",贵州卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001184/index.m3u8?
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPV6•卫视",辽宁卫视「IPV6」
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?
-#EXTINF:-1 tvg-name="重庆卫视" group-title="IPV6•卫视",重庆卫视「IPV6」
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001129/index.m3u8?
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="IPV6•卫视",甘肃卫视「IPV6」
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001298/index.m3u8?
-#EXTINF:-1 tvg-name="吉林卫视" group-title="IPV6•卫视",吉林卫视「IPV6」
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001225/index.m3u8?
-#EXTINF:-1 tvg-name="云南卫视" group-title="IPV6•卫视",云南卫视「IPV6」
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视",云南卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPV6•卫视",江苏卫视「IPV6」
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPV6•卫视",黑龙江卫视「IPV6」
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001031/index.m3u8?
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPV6•卫视",江苏卫视「IPV6」
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
+
+
+
+
+
