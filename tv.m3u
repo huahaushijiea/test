@@ -2,6 +2,8 @@
 
 
 
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+https://live.goodiptv.club/api/sxg.php?id=dnwsfjwsH265_4000
 
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV2-财经
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
