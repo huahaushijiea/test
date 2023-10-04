@@ -5,20 +5,12 @@
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视",CCTV13-新闻
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
-#EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视-4K",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 https://live.goodiptv.club/api/sxg.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 https://live.goodiptv.club/api/sxg.php?id=test2_4000
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",韩国新闻
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 group-title="景区",广东-广州塔与海心桥视角
-http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
-#EXTINF:-1 group-title="景区",北京-水长城01
-https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-
 
 
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV1-综合
@@ -45,9 +37,10 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV15" group-title="央视",CCTV15-音乐
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视",CCTV17-农业农村
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
-
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视",深圳卫视
